@@ -55,7 +55,7 @@ This project is open for learning and portfolio use. Please credit the author if
 
 ## 🚀 Let's Connect
 
-If you're a developer/designer looking to grow, collaborate, or just say hi — reach out on [LinkedIn](https://www.linkedin.com/in/kuyik_bassey)
+If you're a developer/designer looking to grow, collaborate, or just say hi — reach out on [LinkedIn](https://www.linkedin.com/in/kuyik-bassey)
 
 
 
