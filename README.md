@@ -43,7 +43,7 @@ Learning in public, growing from scratch, and currently exploring JavaScript.
 ## 🔗 Live Preview
 
 You can deploy this project using:
-- [GitHub Pages](https://pages.github.com/)
+- [Live Demo](https://kuyik2.github.io/Personal-Profile/)
 
 
 
