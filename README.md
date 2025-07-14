@@ -4,7 +4,7 @@ This is a simple, mobile-responsive personal profile web page built using **HTML
 
 It features a profile image, a short bio, and four circular action buttons: **Resume**, **My Skills**, **Projects**, and **Contacts** — designed to simulate a portfolio landing page for showcasing personal branding.
 
-![Screenshot](./Profile.png)
+![Screenshot](Profile.png)
 
 
 ## 🔧 Tech Stack
